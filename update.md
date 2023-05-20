@@ -4,7 +4,7 @@
     "sec": 18,
     "sta": 1,
     "bate": 10,
-    "address": "https://gitee.com/liliysoft/funbook_update/releases/download/2/Fun%E9%98%85%E8%AF%BB-0.18.1.bate8-debug.apk",
+    "address": "https://github.com/LiliyaSoft/funbook_update/releases/download/1.1/Fun.-0.18.1.bate8-debug.apk",
     "date": "2023/05/20",
     "md5": "0130719481C1625E0F3624A242FCC1E5",
     "log": [
